@@ -96,3 +96,8 @@
   .cover-container {
     max-width: 42em;
   }
+
+  .profile-size {
+    width: 40%;
+    margin-bottom: 20px;
+  }
